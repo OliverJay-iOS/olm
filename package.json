@@ -1,0 +1,30 @@
+{
+  "title": "olm",
+  "name": "olm",
+  "version": "0.0.0",
+  "author": "cpllj",
+  "description": "",
+  "keywords": [
+    "olm"
+  ],
+  "homepage": "http://github.com/cpllj/olm",
+  "contributors": [""],
+  "main": "olm/olm_3.1.4.tgz",
+  "scripts": {
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpllj/olm.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "directories": {
+    "dist": "dist",
+    "src": "src",
+    "test": "test"
+  },
+  "download": "https://raw.githubusercontent.com/cpllj/olm/master/olm-3.1.4.tgz"
+}
